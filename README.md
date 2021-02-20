@@ -3,7 +3,7 @@ A program that implements a limited version of the preprocessor. The program rec
 1. Delete comments.
 2. Handling include guidelines.   
 
-C90 writing.    
+ANSI C standard.    
 
 
 # Screenshots
